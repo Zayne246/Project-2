@@ -1,0 +1,11 @@
+country,year,electricity_and_heat_co2_emissions,electricity_and_heat_co2_emissions_per_capita,energy_co2_emissions,energy_co2_emissions_per_capita,total_co2_emissions_excluding_lucf,total_co2_emissions_excluding_lucf_per_capita
+United States,2020,2000.5,6.05,5000.1,15.12,5800.3,17.54
+China,2020,4500.2,3.12,9800.7,6.80,10500.4,7.29
+India,2020,1100.3,0.79,2200.6,1.58,2600.9,1.87
+Germany,2020,180.4,2.15,320.5,3.82,750.2,8.95
+Brazil,2019,120.1,0.57,,,,
+Canada,2020,90.3,2.38,580.4,15.30,730.1,19.23
+France,2020,,,320.1,4.77,400.5,5.97
+Japan,2020,550.6,4.35,1200.3,9.49,1300.7,10.28
+Australia,2021,200.7,7.82,430.2,16.74,520.9,20.29
+Nigeria,2019,20.3,0.10,50.4,0.25,70.5,0.35,0.36,0.45
